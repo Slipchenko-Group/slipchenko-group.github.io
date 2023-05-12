@@ -1,9 +1,25 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Group"
+    url: /group/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Tools"
+    url: /tools/
+
+sidebar-research:
+  - title: Research
+    children:
+      - title: "EFP"
+        url: /efp
+      - title: "Embedding models"
+        url: /qmefp
+      - title: "Photosynthsis"
+        url: /photosynthesis
+  - title: Publications
+    children:
+      - title: "2010"
+        url: /pub2010/
+      - title: "2011"
+        url: /pub2011/
