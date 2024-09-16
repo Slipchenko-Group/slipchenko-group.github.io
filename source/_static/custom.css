@@ -63,3 +63,14 @@ body {
     color: blue;
     text-decoration: underline;
 }
+
+.landscape-image {
+    width: 100%;   /* This ensures the image takes up the full width of the page */
+    max-height: 500px; /* Adjust this to limit the height and maintain a landscape aspect ratio */
+    object-fit: cover; /* Ensures the image scales nicely */
+    margin-bottom: 20px; /* Adds some space below the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px; /* Optional: gives the image rounded corners */
+}
