@@ -7,10 +7,18 @@ Publications
 
 Here is a list of publications:
 
-   
+**2024**
+--------
+
+
 * `Lyudmila V. Slipchenko*, Detangling Solvatochromic Effects by the Effective Fragment Potential Method, J. Phys. Chem A 2024 128 (3), 656-669 <https://pubs.acs.org/doi/10.1021/acs.jpca.3c06194>`_
 
 * `Blair A. Welsh, Andres S. Urbina, Tuan A. Ho, Susan L. Rempe, Lyudmila V. Slipchenko, and Timothy S. Zwier*, Capturing CO2 in Quadrupolar Binding Pockets: Broadband Microwave Spectroscopy of Pyrimidine-(CO2)n, n = 1,2, J. Phys. Chem. A 2024, <https://pubs.acs.org/doi/10.1021/acs.jpca.3c07930>`_
+
+
+**2023**
+--------
+
 
 * `Patrick K. Wise, Lyudmila V. Slipchenko, and Dor Ben-Amotz*, Ion-Size Dependent Adsorption Crossover on the Surface of a Water Droplet, J. Phys. Chem. B 2023  <https://pubs.acs.org/doi/10.1021/acs.jpcb.3c01797>`_
 
@@ -22,13 +30,23 @@ Here is a list of publications:
 
 * `West, C.P., Mesa Sanchez, D., Morales, A.C., Hsu, Y.J., Ryan, J., Darmody, A., Slipchenko, L.V., Laskin, J. and Laskin, A.*, Molecular and Structural Characterization of Isomeric Compounds in Atmospheric Organic Aerosol Using Ion Mobility-Mass Spectrometry,  J. Phys. Chem. A, 127(7), 1656-1674 (2023)  (2023) <https://pubs.acs.org/doi/10.1021/acs.jpca.2c06459>`_
 
+
+**2022**
+--------
+
 * `Watanabe Y, Washer BM, Zeller M, Savikhin S, Slipchenko LV, Wei A. Copper (I)–Pyrazolate Complexes as Solid-State Phosphors: Deep-Blue Emission through a Remote Steric Effect. J. Amer. Chem. Soc. 144(23):10186-92 (2022) <https://pubs.acs.org/doi/10.1021/jacs.1c13462>`_
 
 * `A.J. Bredt, Y. KimG, D. Mendes de Oliveira, A.S. UrbinaG, L.V. Slipchenko, D. Ben-Amotz*, Expulsion of Hydroxide Ions from Methyl Hydration Shells, J. Phys. Chem. B 2022 126 (4), 869-877 <https://doi.org/10.1021/acs.jpcb.1c08420>`_
 
+**2021**
+--------
+
 * `Epifanovsky E, Gilbert AT, Feng X, Lee J, Mao Y, Mardirossian N, Pokhilko P, White AF, Coons MP, Dempwolff AL, Gan Z. Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package, J. Chem. Phys. 155(8) (2021) <https://doi.org/10.1063/5.0055522>`_
 
 * `A.J. Bredt, D. Mendes de Oliveira, A.S. UrbinaG, L.V. Slipchenko, D. Ben-Amotz*, Hydration and seamless integration of hydrogen peroxide in water, J. Phys. Chem. B 2021 125 (25), 6986-6993 <https://doi.org/10.1021/acs.jpcb.1c03107>`_
+
+**2020**
+--------
 
 * `Yongbin KimG, Yen BuiG, Ruslan N. Tazhigulov, Ksenia B. Bravaya, Lyudmila V. Slipchenko*, Effective Fragment Potentials for Flexible Molecules: Transferability of Parameters and Amino Acid Database, J. Chem. Theory Comput. 2020 16(12), 7735-7747 <https://doi.org/10.1021/acs.jctc.0c00758>`_
 
@@ -42,11 +60,19 @@ Here is a list of publications:
 
 * `Claudia I Viquez RojasG, Lyudmila V Slipchenko*, Exchange Repulsion in Quantum Mechanical/Effective Fragment Potential Excitation Energies: Beyond Polarizable Embedding, J. Chem. Theory Comput. 2020 16(10) 8408-6417 <https://doi.org/10.1021/acs.jctc.9b01156>`_
 
+
+**2019**
+--------
+
 * `Danil S KaliakinP, Hiroya Nakata, Yongbin KimG, Qifeng ChenU, Dmitri G Fedorov, Lyudmila V Slipchenko*, FMOxFMO: Elucidating Excitonic Interactions in the Fenna–Matthews–Olson Complex with the Fragment Molecular Orbital Method, J. Chem. Theory Comput. 2019 16(2) 1175-1187 <https://doi.org/10.1021/acs.jctc.9b00621>`_
 
 * `Nathanael M Kidwell, Benjamin Nebgen, Lyudmila V Slipchenko, Timothy S Zwier*, The effects of site asymmetry on near-degenerate state-to-state vibronic mixing in flexible bichromophores, J. Chem. Phys. 2019 151(8) 084313 <https://doi.org/10.1063/1.5107423>`_
 
 * `R. Tazhigulov, P.K. GurunathanG, Y. KimG, L.V. Slipchenko, K.B. Bravaya*, Polarizable Embedding for Simulating Redox Potentials of Biomolecules, Phys. Chem. Chem. Phys. 2019 21(22) 11642-11650 <https://doi.org/10.1039/C9CP01533G>`_
+
+
+**2018**
+--------
 
 * `L.I. Mosquera-Giraldo, C.H. BorcaG, A.S. Parker, Y. Dong, K.J. Edgar, S.P. Beaudoin, L.V. Slipchenko, L.S. Taylor*, Crystallization Inhibition Properties of Cellulose Esters and Ethers for a Group of Chemically Diverse Drugs: Experimental and Computational Insight, Biomacromolecules 2018 19(12) 4593–4606 <https://doi.org/10.1021/acs.biomac.8b01280>`_
 
@@ -56,6 +82,10 @@ Here is a list of publications:
 
 * `N. Mugheirbi, L. Mosquera-Giraldo, C. BorcaG, L.V. Slipchenko, L. Taylor*, Phase Behavior of Drug-Hydroxypropyl Methylcellulose Amorphous Solid Dispersions Produced from Various Solvent Systems: Mechanistic Understanding of the Role of Polymer using Experimental and Theoretical Methods, Mol. Pharmaceutics 2018 15(8), 3236-3251 <https://doi.org/10.1021/acs.molpharmaceut.8b00324>`_
 
+
+**2017**
+--------
+
 * `N. Dubinets, L.V.Slipchenko*, Effective Fragment Potential method for H-bonding: How to obtain parameters for non-rigid fragments, J. Phys. Chem. A 2017 121(28), 5301-5312 <https://doi.org/10.1021/acs.jpca.7b01701>`_
 
 * `S. Tyler, E. Judkins, D. Morozov, C. BorcaG, L.V. Slipchenko, D. McMillin*, To Be or Not to Be Symmetric:  That is the Question for Potentially Active Vibronic Modes, J. Chem. Educ. 2017 94(9), 1232-1237 <https://doi.org/10.1021/acs.jchemed.7b00289>`_
@@ -64,11 +94,19 @@ Here is a list of publications:
 
 * `O.N. Rogacheva, S.A. Izmailov, L.V. Slipchenko, N.R. Skrynnikov*, A new structural arrangement in proteins involving lysine NH3+ group and carbonyl, Sci. Reports 2017 7, 16402 <https://doi.org/10.1038/s41598-017-16584-y>`_
 
+
+**2016**
+--------
+
 * `Xiong, C. H. BorcaG, L. V. Slipchenko, and P. B. Shepson*, Photochemical Degradation of Isoprene-derived 4,1-Carbonyl Nitrate, ACP 2016 16, 5595-5610 <https://doi.org/10.5194/acp-16-5595-2016>`_
 
 * `M.C. GreenG, H. Nakata, D. Fedorov, L.V. Slipchenko, Radical Damage in Lipids Investigated with the Fragment Molecular Orbital Method, Chem. Phys. Lett. 2016 651, 56-61 <https://doi.org/10.1016/j.cplett.2016.03.014>`_
 
 * `R.E. Stoller, A. Tamm, L.K. Beland, G.D. Samolyuk, G.M. Stocks, A. Caro, L.V. Slipchenko, Yu.N. Osetsky, A. Aabloo, M. Klintenberg, and Y. Wang, Impact of Short-range Forces on Defect Production from High-energy Collisions, J. Chem. Theory Comp. 2016 12, 2871–2879 <https://doi.org/10.1021/acs.jctc.5b01194>`_
+
+
+**2015**
+--------
 
 * `B.J. Esselman, F.L. EmmertG III, A.J. Wiederhold, S.J. ThompsonU, L.V. Slipchenko, R.J. McMahon*, Thermal Isomerizations of Diethynyl Cyclobutadienes and Implications for Fullerene Formation, J. Org. Chem. 2015 80, 11863-11868 <https://doi.org/10.1021/acs.joc.5b01864>`_
 
@@ -78,11 +116,19 @@ Here is a list of publications:
 
 * `KalimanP and L.V. Slipchenko, Hybrid MPI/OpenMP Parallelization of the Effective Fragment Potential Method in the LibEFP Software Library, J. Comp. Chem. 2015 36, 129-135 <https://doi.org/10.1002/jcc.23772>`_
 
+
+**2014**  
+--------
+
 * `NebgenG and L.V. Slipchenko*, Vibronic Coupling in Asymmetric Bichromophores: Theory and Application to Diphenylmethane-d5, J. Chem. Phys. 2014 141, 134119 <https://doi.org/10.1063/1.4896561>`_
 
 * `N. Pillsbury, N. Kidwell, B. NebgenG, L.V. Slipchenko, K. Douglass, J. Cable, D. Plusquellic, and T. Zwier, Vibronic Coupling in Asymmetric Bichromophores: Experimental Investigation of Diphenylmethane-d5, J. Chem. Phys. 2014 141, 064316 <https://doi.org/10.1063/1.4892344>`_
 
 * `G. Hoffman, P.K. GurunathanG, J. Francisco, and L.V. Slipchenko*, Excited States of OH-(H2O)n Clusters for n = 1-4: An ab initio Study, J. Chem. Phys. 2014 141, 104315 <https://doi.org/10.1063/1.4894772>`_
+
+
+**2013**  
+--------
 
 * `N.M. Kidwell, N.J. Reilly, B. NebgenG, D.N. Mehta-Hurt, R.D. Hoehn, D.L. Kokkin, M.C. McCarthy, L.V. Slipchenko, and T.S. Zwier*, Jet-Cooled Spectroscopy of the α-Methylbenzyl Radical: Probing the State-Dependent Effects of Methyl Rocking Against a Radical Site, J. Phys. Chem. A, 2013 117 (50), 13465–13480 <https://doi.org/10.1021/jp406945u>`_
 
@@ -98,6 +144,10 @@ Here is a list of publications:
 
 * `B.M. Rankin, M.D. HandsG, D.S. Wilcox, L.V. Slipchenko, and D. Ben-Amotz*, Interactions Between Halide Anions and a Molecular Hydrophobic Interface, Faraday Disc. 2013 160, 255-270 <https://doi.org/10.1039/C2FD20082A>`_
 
+
+**2012**
+--------
+
 * `B. NebgenG, F.E. EmmertG, L.V. Slipchenko*, Vibronic Coupling in Asymmetric Bichromophores: Theory and Application to Diphenylmethane, J. Chem. Phys. 2012 137, 084112 (12 pages) <https://doi.org/10.1063/1.4747336>`_
 
 * `J.C. FlickU, D. KosenkovP, E.G. Hohenstein, C.D. Sherrill, and L.V. Slipchenko*, Accurate Prediction of Non-covalent Interaction Energies with the Effective Fragment Potential Method: Comparison of Energy Components to Symmetry-Adapted Perturbation Theory for the S22 Test Set, J. Chem Theory Comp. 2012 8(8), 2835–2843 <https://doi.org/10.1021/ct200673a>`_
@@ -109,6 +159,10 @@ Here is a list of publications:
 * `* S.J. ThompsonU, F.L. EmmertG, L.V. Slipchenko*, Effects of Ethynyl Substituents on Electronic Structure of Cyclobutadiene, J. Phys. Chem. A, 116, 3194-3201 (2012) DOI: 10.1021/jp2099202 <https://doi.org/10.1021/jp2099202>`_
 
 * `M. HandsG and L.V. Slipchenko*, Intermolecular Interactions in Complex Liquids: Effective Fragment Potential Investigation of Water-tert-Butanol Mixtures, J. Phys. Chem. B, 116, 2775-2786 (2012) DOI: 10.1021/jp2077566 <https://doi.org/10.1021/jp2077566>`_
+
+
+**2011**  
+--------
 
 * `K.P. Gierszal, J.G. Davis, M.D. HandsG, D.S. Wilcox, L.V. Slipchenko, and D. Ben-Amotz*, π-Hydrogen Bonding in Liquid Water, J. Phys. Chem. Lett., 2 (22), 2930–2933 (2011) DOI: 10.1021/jz201373e <https://doi.org/10.1021/jz201373e>`_
 
@@ -128,6 +182,10 @@ Here is a list of publications:
 
 * `D. KosenkovP and L.V. Slipchenko*, Solvent Effects on the Electronic Transitions of p-Nitroaniline: A QM/EFP Study, J. Phys. Chem. A, 115 (4), 392-401 (2011) DOI: 10.1021/jp110026c <https://doi.org/10.1021/jp110026c>`_
 
+
+**2010**
+--------
+
 * `D. Ghosh, D. KosenkovP, V. Vanovschi, C.F. Williams, J.M. Herbert, M.S. Gordon, M.W. Schmidt, L.V. Slipchenko*, and A.I. Krylov*, Non-covalent interactions in extended systems described by the Effective Fragment Potential method: Theory and application to nucleobase oligomers, J. Phys. Chem. A, 114 (48), 12739-12754 (2010) DOI: 10.1021/jp107557p <https://doi.org/10.1021/jp107557p>`_
 
 * `L.V. Slipchenko*, Solvation of the excited states of chromophores in polarizable environment: orbital relaxation versus polarization, J. Phys. Chem. A, 114 (33), 8824-8830 (2010) DOI: 10.1021/jp101797a <https://doi.org/10.1021/jp101797a>`_
@@ -135,6 +193,10 @@ Here is a list of publications:
 * `D.G. Fedorov*, L.V. Slipchenko, K. Kitaura, Systematic study of the embedding potential description in the Fragment Molecular Orbital method, J. Phys. Chem. A, 114 (33), 8742-8753 (2010) DOI: 10.1021/jp101724p <https://doi.org/10.1021/jp101724p>`_
 
 * `P. Arora, L.V. Slipchenko, S.P. Webb, A. Defusco, M.S. Gordon*, Solvent Induced frequency shifts: Configuration Interaction Singles combined with the Effective Fragment Potential Method, J. Phys. Chem. A, 114 (25), 6742–6750 (2010) DOI: 10.1021/jp101780r <https://doi.org/10.1021/jp101780r>`_
+
+
+Earlier publications
+--------------------
 
 * `W.H. James III, C.W. Mueller, E.G. Buchanan, M.G.D. Nix, L. Guo, L. Roskop, M.S. Gordon, L.V. Slipchenko, S.H. Gellman and T.S. Zwier*, Intramolecular Amide Stacking and Its Competition with Hydrogen Bonding in a Small Foldamer, J. Am. Chem. Soc., 131(40), 14243 (2009) DOI: 10.1021/ja9054965 <https://doi.org/10.1021/ja9054965>`_
 
