@@ -28,7 +28,7 @@ Lyudmila Slipchenko
       :width: 40%
       :align: left
 
-Associate Professor
+Professor
 
 
 

@@ -10,7 +10,16 @@ Here is a list of publications:
 **2024**
 --------
 
+* `Shahed Haghiri, Claudia Viquez Rojas, Sriram Bhat, Olexandr Isayev, Lyudmila Slipchenko, ANI/EFP: Modeling Long-Range Interactions in ANI Neural Network with Effective Fragment Potentials, J. Chem Theo. Comp  A 2024 <https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c01052>`_
 
+* `Galina Grechishnikova, Jacob H Wat, Nicolas de Cordoba, Ethan Miyake, Amala Phadkule, Amit Srivastava, Sergei Savikhin, Lyudmila Slipchenko, Libai Huang, Mike Reppert Controlling Vibronic Coupling in Chlorophyll Proteins: The Effects of Excitonic Delocalization and Vibrational Localization J. Phys. Chem A 2024  (15), 9456-9465 <https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.4c01826>`_
+
+* `Volker Blum, Ryoji Asahi, Jochen Autschbach, Christoph Bannwarth, Gustav Bihlmayer, Stefan Blügel, Lori A Burns, T Daniel Crawford, William Dawson, Wibe Albert de Jong, Claudia Draxl, Claudia Filippi, Luigi Genovese, Paolo Giannozzi, Niranjan Govind, Sharon Hammes-Schiffer, Jeﬀ R Hammond, Benjamin Hourahine, Anubhav Jain, Yosuke Kanai, Paul RC Kent, Ask Hjorth Larsen, Susi Lehtola, Xiaosong Li, Roland Lindh, Satoshi Maeda, Nancy Makri, Jonathan Moussa, Takahito Nakajima, Jessica A Nash, Micael JT Oliveira, Pansy D Patel, Giovanni Pizzi, Geoffrey Pourtois, Benjamin P Pritchard, Eran Rabani, Markus Reiher, Lucia Reining, Xinguo Ren, Mariana Rossi, H Bernhard Schlegel, Nicola Seriani, Lyudmila V Slipchenko, Alexander Thom, Edward F Valeev, Benoit Van Troeye, Lucas Visscher, Vojtech Vlcek, Hans-Joachim Werner, David B Williams-Young, Theresa Windus Roadmap on methods and software for electronic structure based simulations in chemistry and materials <https://iopscience.iop.org/article/10.1088/2516-1075/ad48ec/meta>`_  
+
+* `Lujun Luo, Antoine P Martin, Elijah K Tandoh, Andrei Chistoserdov, Lyudmila V Slipchenko, Sergei Savikhin, Wu Xu Impact of Peripheral Hydrogen Bond on Electronic Properties of the Primary Acceptor Chlorophyll in the Reaction Center of Photosystem I International Journal of Molecular Sciences 4815 25 (9) 2024  <https://www.mdpi.com/1422-0067/25/9/4815>`_
+
+* `Shinaj K Rajagopal, Matthias Zeller, Sergei Savikhin, Lyudmila V Slipchenko, Alexander Wei Rigidochromism of Tetranuclear Cu (I)–Pyrazolate Macrocycles: Steric Crowding with Trifluoromethyl Groups Chemical Communications 2024 <https://pubs.rsc.org/en/content/articlehtml/2024/cc/d4cc04259j>`_
+  
 * `Lyudmila V. Slipchenko*, Detangling Solvatochromic Effects by the Effective Fragment Potential Method, J. Phys. Chem A 2024 128 (3), 656-669 <https://pubs.acs.org/doi/10.1021/acs.jpca.3c06194>`_
 
 * `Blair A. Welsh, Andres S. Urbina, Tuan A. Ho, Susan L. Rempe, Lyudmila V. Slipchenko, and Timothy S. Zwier*, Capturing CO2 in Quadrupolar Binding Pockets: Broadband Microwave Spectroscopy of Pyrimidine-(CO2)n, n = 1,2, J. Phys. Chem. A 2024, <https://pubs.acs.org/doi/10.1021/acs.jpca.3c07930>`_
