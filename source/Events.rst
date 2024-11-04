@@ -7,9 +7,30 @@ Group Meetings
 --------------
 Our group convenes twice a week to engage in discussions regarding our respective research projects.
 
+Volleyball’s become a big part of our group culture—we’re hitting the COREC courts pretty often! 😄
+
+
+.. image:: _static/images/vc.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
 
 Conferences
 -----------
+
+Turkey Run Photosynthesis Conference 2024
+
+.. image:: _static/images/tr.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
 
 
 Gatherings and Fun Events
@@ -49,6 +70,8 @@ The Eclipsed Day
   :align: center
   :width: 100%
                         
+----
+
 On the 8th of April, 2024, we were privileged to witness one of nature’s most extraordinary phenomena, a solar eclipse. To fully appreciate this rare event, our group convened at Lake Waveland Park in Indiana, transforming the occasion into a memorable gathering. The excitement was palpable as we all chatted, eagerly awaiting the eclipse, but we had plenty of adventures planned to make the most of the day. The tranquil waters of the lake provided an ideal setting for kayaking, allowing participants to appreciate the beauty of the natural landscape. Others demonstrated their skill in windsurfing, gracefully maneuvering through the lake's breezes, while some opted to enjoy a refreshing swim.
 
 
@@ -85,10 +108,7 @@ Pchem Picnic (2024)
    :width: 100%
 
 
-.. raw:: html
-
-   <div style="clear: both;></div>
-
+----
 
    
 On October 18th, 2024, the annual Physical Chemistry DRG picnic brought our group together for an unforgettable afternoon at Happy Hollow Park, Shelter 3. 
@@ -108,7 +128,7 @@ On October 18th, 2024, the annual Physical Chemistry DRG picnic brought our grou
    :width: 50%
 
 
-On October 18th, 2024, the annual Physical Chemistry DRG picnic brought our group together for an unforgettable afternoon at Happy Hollow Park, Shelter 3. We arrived early to set up and fired up the grill, filling the air with the aroma of sizzling patties. Our food table boasted a colorful spread of fruits, burgers, and refreshing drinks, all thoughtfully arranged with everyone's help. Faculty members joined in, sharing great conversations over delicious bites.
+We arrived early to set up and fired up the grill, filling the air with the aroma of sizzling patties. Our food table boasted a colorful spread of fruits, burgers, and refreshing drinks, all thoughtfully arranged with everyone's help. Faculty members joined in, sharing great conversations over delicious bites.
 
 
 
