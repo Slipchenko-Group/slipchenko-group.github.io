@@ -14,7 +14,7 @@ Research
    <div class="molecule" style="animation-delay: 16s;"></div>
    <div class="molecule" style="animation-delay: 18s;"></div>
 
-Here is the description of the research topics...
+Energy and electron transfer in photosynthesis
 
-Additional content and details about research.
+Development of polarizable embedding models
 
