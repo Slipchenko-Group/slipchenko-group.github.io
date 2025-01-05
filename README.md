@@ -1,2 +1,3 @@
-# slipchenko-group.github.io
-Slipchenko group website
+
+
+### Slipchenko group website is [here](https://slipchenko-group.github.io/)
