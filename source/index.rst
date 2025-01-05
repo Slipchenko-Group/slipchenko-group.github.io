@@ -3,12 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Research Group Website documentation
-====================================
+=========================================
+Welcome to the Slipchenko Research Group!
+=========================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+.. image:: _static/images/Group_photo.jpg
+   :width: 100%
+   :align: center
+   :alt: Slipchenlo group 2024
+
+
+We are computational chemists interested in understanding interplay between structure and 
+function in condensed-phase molecular systems. Some of the exciting problems we work with are
+
+- how do photosynthetic proteins control energy and charge tranfer?
+- what is the role of vibronic interactions in energy tranfer and how are they affected by a protein environment?
+- what is the physical make-up of the interactions controling binding in protein-ligand complexes and molecular crystals?
+
+To address these and other questions, we use community molecular modeling software and develop our own tools. 
+Check out our webpages to learn more!
+
 
 
 .. toctree::

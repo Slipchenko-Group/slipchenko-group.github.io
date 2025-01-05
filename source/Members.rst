@@ -2,21 +2,6 @@ Members
 =======
 
 
-
-
-
-
-
-The Slipchenko Group
---------------------
-
-.. image:: _static/images/Group_photo.jpg
-   :width: 100%
-   :align: center
-
-|
-
-
 Lyudmila Slipchenko
 -------------------
 
@@ -28,7 +13,7 @@ Lyudmila Slipchenko
       :width: 40%
       :align: left
 
-Associate Professor
+Professor
 
 
 
