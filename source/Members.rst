@@ -13,7 +13,14 @@ Lyudmila Slipchenko
       :width: 40%
       :align: left
 
-Professor
+| **Professor**
+|
+| **office:** WTHR 265H
+| **phone:** (765) 494-5255
+| **email:** lslipchenko @ purdue . edu
+| 
+| **Research questions:** how do molecules interact?
+| **Fun fact:** worried about Schrodinger cat... 
 
 
 
