@@ -207,7 +207,12 @@ Osama Abuhammad
       :width: 25%
       :align: left
 
-Graduate Student
+| **Graduate Student**
+| Bsc in Chemistry, First of class | Jordan University of Science and Technology | Jordan
+| **Email:** oabuhamm@purdue.edu
+| **Research Interest:** My research focuses on computational physical chemistry and developing methods for photoprotection of proteins vital to photosynthesis.
+| **Fun fact:** 
+
 
 
 .. raw:: html
