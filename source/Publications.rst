@@ -1,9 +1,7 @@
 Publications
 ============
 
-
-
-Here is a list of publications:
+`Google Scholar page <https://scholar.google.com/citations?hl=en&user=8jzoIi8AAAAJ&view_op=list_works&sortby=pubdate>`_
 
 2024
 ----
