@@ -117,7 +117,10 @@ Isaac Ofori
       :width: 25%
       :align: left
 
-Graduate Student
+| **Graduate Student**
+| Isaac completed a BSc. Chemistry from the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. During this time he studied the  mechanism of selected organic reactions focusing on the origin of unique reactivity and selectivity. Isaac joined the lab in August 2022. He is currently studying vibronic interactions in photosynthetic complexes. His work revolves around using QM/MM and QM/EFP techniques to understand this dynamics in photosytems.
+| **Email:** iofori@purdue.edu
+| **Fun fact:** I love geopolitics and witty debates in that line**
 
 
 .. raw:: html
@@ -171,8 +174,7 @@ Michael Eyeson
       :width: 25%
       :align: left
 
-
-| **Graduate Student**
+| **Graduate Student**   
 | Bachelor of Science in Chemistry, KNUST Ghana. Undergraduate research was focused on investigating the reaction pathway of organometallic compounds to aid synthesize carbohydrates. Currently, Michael's Graduate research is focused on spectral prediction of Water Soluble Chlorophyll Proteins (WSCP) and also investigating the interaction between drug molecules and proteins in a biological system.  
 | **Email:** meyeson@purdue.edu
 | **Fun fact:** 
