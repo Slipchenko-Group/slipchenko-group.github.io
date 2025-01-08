@@ -26,8 +26,8 @@ Check out our webpages to learn more!
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption:
+   :maxdepth: 1
+   :caption: Outline
 
 
    Research
