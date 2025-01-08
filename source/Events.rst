@@ -66,7 +66,7 @@ The Eclipsed Day
 ----------------
 
 
-.. image:: _static/images/eclipsegp.jpg 
+.. image:: _static/images/eclipsegp.png 
   :align: center
   :width: 100%
                         
@@ -85,7 +85,7 @@ The pinnacle of the day occurred as the solar eclipse approached. Utilizing appr
 
 
 
-.. image:: _static/images/eclipsev.jpg
+.. image:: _static/images/eclipsev.png
    :align: right
    :width: 50%
 
