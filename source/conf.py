@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Slipchenko Group'
-copyright = '2024, Lyudmila Slipchenko Michael Eyeson Richmond Arhin Shameera Udesh Isaac Ofori'
-author = 'Lyudmila Slipchenko Michael Eyeson Richmond Arhin Shameera Udesh Isaac Ofori'
+copyright = '2024, Slipchenko group'
+author = 'Slipchenko group'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
