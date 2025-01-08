@@ -27,7 +27,7 @@ Check out our webpages to learn more!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Menu:
+   :caption:
 
 
    Research
