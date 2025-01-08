@@ -1,7 +1,9 @@
 .. _education:
 
-Education
-=========
+Educational resources
+======================
+
+.. _courses:
 
 Courses
 -------
@@ -24,10 +26,27 @@ Required textbooks include:
 `A. Szabo and N. S. Ostlund, Modern Quantum Chemistry, Introduction to Advanced Electronic Structure 
 Theory, 1st ed., revised (Dover, 1996) <https://chemistlibrary.wordpress.com/wp-content/uploads/2015/02/modern-quantum-chemistry.pdf>`_ 
 
-Also you can find the links to the softwares that are required for the course:
+.. _software:
+
+Software tools
+---------------
+
+Software packages that we like to use: 
 
 `Q-Chem <https://www.q-chem.com>`_
 
 `iQmol <https://iqmol.org>`_
 
 `Psi4 <https://psicode.org/>`_
+
+`GAMESS`
+
+`GROMACS`
+
+`LibEFP` and `LibEFP website`
+
+.. _tutorials:
+
+Tutorials
+----------
+
