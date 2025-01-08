@@ -171,7 +171,11 @@ Michael Eyeson
       :width: 25%
       :align: left
 
-Graduate Student
+
+| **Graduate Student**
+| Bachelor of Science in Chemistry, KNUST Ghana. Undergraduate research was focused on investigating the reaction pathway of organometallic compounds to aid synthesize carbohydrates. Currently, Michael's Graduate research is focused on spectral prediction of Water Soluble Chlorophyll Proteins (WSCP) and also investigating the interaction between drug molecules and proteins in a biological system.  
+| **Email:** meyeson@purdue.edu
+| **Fun fact:** 
 
 
 .. raw:: html
@@ -189,7 +193,11 @@ Richmond Arhin
       :width: 25%
       :align: left
 
-Graduate Student
+
+| **Graduate Student**
+| Richmond received his BSc in Chemistry from KNUST, Ghana. In Ghana, he worked on DFT calculations on small but pharmacologically relevant organic molecules, and explored theoretical insights into reaction mechanisms and selectivities. Currently, Richmond is involved with developing an optimised workflow for the computational mutagenesis pipeline with the Fenna-Matthews-Olson (FMO) pigment protein complex.
+| **Email:** rarhin@purdue.edu
+| **Fun fact:** Your morning coffee has over 1,000 chemical compounds, many of which are still being studied. It’s a brew of science!
 
 
 .. raw:: html
@@ -210,8 +218,8 @@ Osama Abuhammad
 | **Graduate Student**
 | Bsc in Chemistry, First of class | Jordan University of Science and Technology | Jordan
 | **Email:** oabuhamm@purdue.edu
-| **Research Interest:** My research focuses on computational physical chemistry and developing methods for photoprotection of proteins vital to photosynthesis.
-| **Fun fact:** 
+| **Research Interest:** My research in computational physical chemistry utilizes quantum chemistry methods to investigate the protective mechanisms of photosynthetic proteins during photosynthesis.
+| **Fun fact:** I love the math that makes quantum chemistry tick!
 
 
 
