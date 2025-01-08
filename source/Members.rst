@@ -231,7 +231,8 @@ Shameera Udesh
       :align: left
 
 | **Graduate Student**
-| BSc(Hons) in Computational Chemistry|University of Colombo|Sri Lanka.  
+| BSc(Hons) in Computational Chemistry| University of Colombo|  
+| Sri Lanka.  
 | **Email:** sbadalge@purdue.edu  
 | **Research interest:** I am passionate about advancing method development in computational chemistry, with a particular focus on applications in computational polymer chemistry.  
 | **Fun fact:** I may not perform on stage, but I’m a karaoke champ in my living room! 
