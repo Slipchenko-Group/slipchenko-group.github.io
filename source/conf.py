@@ -20,6 +20,8 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.viewcode',
     'sphinxcontrib.bibtex',
+    'sphinx_rtd_theme',
+    'sphinx_panels',
 
         ]
 
@@ -49,6 +51,7 @@ html_theme_options = {
 html_static_path = ['_static']
 html_css_files = [
     'custom.css',
+    'molecules.css',
 ]
 
 html_js_files = [
@@ -57,9 +60,9 @@ html_js_files = [
 
 #html_extra_path = ['_templates/molecules_background.html']
 
-html_css_files = [
-    'molecules.css',
-]
+#html_css_files = [
+#    'molecules.css',
+#]
 html_js_files = [
     'molecules.js',
 ]

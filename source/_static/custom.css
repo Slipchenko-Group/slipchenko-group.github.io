@@ -63,3 +63,15 @@ body {
     color: blue;
     text-decoration: underline;
 }
+
+.images-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-figure,
+.right-figure {
+    flex: 1; /* Adjust the width proportion */
+    text-align: center;
+}
