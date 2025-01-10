@@ -86,9 +86,9 @@ Software packages that we like to use:
 Tutorials
 ----------
 
-.. dropdown:: See link to tutorials of some example cases
-    
-   `Slipchenko-group Tutorials <https://github.itap.purdue.edu/Slipchenko-group>`_
+
+`Slipchenko-group Tutorials <https://github.itap.purdue.edu/Slipchenko-group>`_
+
 
 Also below are links to **YouTube video tutorials** on making and running EFP jobs
 
