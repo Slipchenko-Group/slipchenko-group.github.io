@@ -24,16 +24,15 @@ To address these and other questions, we use community molecular modeling softwa
 Check out our webpages to learn more!
 
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Outline
-
 
    Research
    Education
    Events
    Members
+   members_old
    Publications
    Contact
 

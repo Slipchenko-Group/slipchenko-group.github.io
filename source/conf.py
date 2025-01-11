@@ -20,8 +20,10 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.viewcode',
     'sphinxcontrib.bibtex',
+    'myst_parser',
         ]
 
+# source_suffix = ['.rst', '.md']
 
 bibtex_bibfiles = [
     'reference.bib',

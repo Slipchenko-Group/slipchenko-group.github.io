@@ -6,18 +6,57 @@ Educational resources
 .. _courses:
 
 Courses
--------
+--------
 
-**Computational Quantum Chemistry (CHM 673)** is a graduate level course that opens students up to the area of developed quantum mechanical and molecular mechanical principles optimized by compuational models for the estimation of atomic and molecular properties for the evaluation of structural and functional behavior of both microscopic and extended systems. Lecture entails the fundamentals of molecular simulations, molecular potential energy surfaces (modeling chemical reactions), basic approximations (Hartree-Fock theory), electron correlation methods (Configuration Interaction, Perturbation Theory, Coupled Cluster Methods), density functional theory, chemistry of open-shells and excited states(multireference methods, methods for excited states, TD-DFT), modeling of large and periodic systems (Solvation models, QM/MM, fragmentation methods).
+Computational Quantum Chemistry (CHM 673)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Click `here <https://github.com/slipchenko/CHM673/tree/master/lectures>`_ to access the lecture notes
+**Syllabus**
+This course aims to give the students both theoretical and practical background in the 
+computational techniques used in modern quantum chemistry. A significant fraction of the 
+students' time will be spent actually using quantum chemistry programs. 
+The last assignment will provide a chance for students to perform an independent 
+computational project related to their research interests and present a seminar to the class.  
+A solid undergraduate background in Physical Chemistry or, preferably, Quantum Mechanics, 
+will suffice as a prerequisite.
 
-Required textbooks include:
+**Topics covered**
 
-`F. Jensen, Introduction to Computational Chemistry, (Wiley, New York, 2017) <https://dl.iranchembook.ir/ebook/Physical-Chemistry-723.pdf>`_
+1. Schrodinger equation. Review of QM. Born-Oppenheimer approximation.
+2. Chemical reactions and potential energy surfaces.
+3. Orbitals and Slater determinants. Theoretical model chemistries.
+4. Hartree-Fock theory. Koopmans’ theorem.
+5. Basis sets.
+6. Molecular orbitals. Point group symmetry.
+7. Spin operators. Restricted and unrestricted HF.
+8. Density functional theory.
+9. Electron correlation. Configuration interaction. Size-consistency problem. Wave function versus electron density approaches.
+10. Dynamical correlation. Second-order perturbation theory. Coupled cluster theory. Extrapolation techniques. Performance of electronic structure methods.
+11. Non-dynamical correlation. Multi-configuration SCF.
+12. Electronic excited states. CIS, TD-DFT, EOM-CCSD.
+13. Chemistry of extended and periodic systems: solvation models, QM/MM, fragmentation methods.
 
-`A. Szabo and N. S. Ostlund, Modern Quantum Chemistry, Introduction to Advanced Electronic Structure 
-Theory, 1st ed., revised (Dover, 1996) <https://chemistlibrary.wordpress.com/wp-content/uploads/2015/02/modern-quantum-chemistry.pdf>`_ 
+**Textbooks**
+
+- `Frank Jensen, Introduction to Computational Chemistry <https://dl.iranchembook.ir/ebook/Physical-Chemistry-723.pdf>`_
+- `A. Szabo and N. S. Ostlund, Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory <https://chemistlibrary.wordpress.com/wp-content/uploads/2015/02/modern-quantum-chemistry.pdf>`_ 
+- J. Schrier, *Introduction to Computational Physical Chemistry* (University Science Books, 2017)
+
+**Lecture notes**
+   
+Check out a complete set of CHM 673 `lecture notes <https://github.com/slipchenko/CHM673/tree/master/lectures>`_. 
+
+
+.. seealso::
+
+   A complete list of PChem courses offered at Purdue: `PChem courses at Purdue <https://pchem-purdue.github.io/education>`_.
+
+.. seealso::
+
+   Check out Computational Interdisciplinary Graduate Programs (CIGP) curriculum for 
+   courses in computational, math and data sciences `here <https://www.purdue.edu/academics/ogsps/cigp/academics/curriculum.html>`_.
+
+
 
 .. _software:
 
@@ -26,59 +65,106 @@ Software tools
 
 Software packages that we like to use: 
 
-.. container:: images-container
+.. container:: image-text-block
 
-   .. container:: left-figure
+   .. image:: _static/images/qchem.jpg
+      :alt: qchem
+      :width: 300px
+      :align: left
+   
+| `Q-Chem website <https://www.q-chem.com>`_
+| `Q-Chem manual <https://manual.q-chem.com/latest/>`_
+| `Q-Chem forum <https://talk.q-chem.com/>`_
+| `Q-Chem trac <https://jubilee.q-chem.com/trac/>`_ (password protected)
 
-      .. figure:: _static/images/qchem.jpg
-         :alt: Q-Chem
-         :width: 300px
+.. raw:: html
 
-         `Q-Chem <https://www.q-chem.com>`_
+   <div style="clear: both;"></div>
 
-   .. container:: right-figure
 
-      .. figure:: _static/images/iqmol.jpg
-         :alt: iQmol
-         :width: 300px
+.. container:: image-text-block
 
-         `iQmol <https://iqmol.org>`_
+   .. image:: _static/images/iqmol.jpg
+      :alt: iQmol
+      :width: 300px
+      :align: left
 
-.. container:: images-container
+|
+| `iQmol <https://iqmol.org>`_ molecular editor and GUI for Q-Chem 
+| Q-Chem / iQmol `tutorials <https://www.q-chem.com/try/iqmol/>`_
 
-   .. container:: left-figure
+.. raw:: html
 
-      .. figure:: _static/images/psi4.jpg
-         :alt: Psi4
-         :width: 300px
+   <div style="clear: both;"></div>
 
-         `Psi4 <https://psicode.org/>`_
 
-   .. container:: right-figure
 
-      .. figure:: _static/images/gamess.jpg
-         :alt: GAMESS
-         :width: 300px
+.. container:: image-text-block
 
-         `GAMESS <https://www.msg.chem.iastate.edu/gamess/download.html>`_
+   .. image:: _static/images/psi4.jpg
+      :alt: Psi4
+      :width: 300px
+      :align: left
 
-.. container:: images-container
+|
+| `Psi4 website <https://psicode.org/>`_
+| `Psi4 github <https://github.com/psi4/psi4/>`_
+| `Psi4 manual <https://psicode.org/psi4manual/master/index.html>`_
 
-   .. container:: left-figure
+.. raw:: html
 
-      .. figure:: _static/images/gromacs.png
-         :alt: GROMACS
-         :width: 300px
+   <div style="clear: both;"></div>
 
-         `GROMACS <https://www.gromacs.org/>`_
 
-   .. container:: right-figure
+.. container:: image-text-block
 
-      .. figure:: _static/images/libefp_logo.png
-         :alt: GAMESS
-         :width: 300px
+   .. image:: _static/images/gamess.jpg
+      :alt: GAMESS
+      :width: 300px
+      :align: left
 
-         `LibEFP <https://github.com/ilyak/libefp>`_ and `LibEFP website <https://libefp2.github.io/>`_
+|
+| `GAMESS home <https://www.msg.chem.iastate.edu/>`_
+| `GAMESS documentation <https://www.msg.chem.iastate.edu/gamess/documentation.html>`_
+| `GAMESS github <https://github.com/gms-bbg/gamess>`_
+
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+
+
+.. container:: image-text-block
+
+   .. image:: _static/images/gromacs.png
+      :alt: GROMACS
+      :width: 300px
+      :align: left
+
+|
+| `GROMACS home <https://www.gromacs.org/>`_
+| `GROMACS tutorials <https://tutorials.gromacs.org/>`_
+| `GROMACS manual <https://manual.gromacs.org/current/reference-manual/index.html>`_
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
+
+
+.. container:: image-text-block
+
+   .. image:: _static/images/libefp_logo.png
+      :alt: libefp
+      :width: 300px
+      :align: left
+
+|
+| `LibEFP github <https://github.com/libefp2/libefp>`_ 
+| `LibEFP website <https://libefp2.github.io/>`_
+
+.. raw:: html
+
+   <div style="clear: both;"></div>
 
 
 .. _tutorials:
@@ -86,17 +172,15 @@ Software packages that we like to use:
 Tutorials
 ----------
 
+Slipchenko group tutorials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Slipchenko-group Tutorials <https://github.itap.purdue.edu/Slipchenko-group>`_
+**Slipchenko group resources at Purdue github** `Slipchenko group Purdue github pages <https://github.itap.purdue.edu/Slipchenko-group>`_ (password protected)
 
+**YouTube video tutorials** on making and running EFP jobs:
 
-Also below are links to **YouTube video tutorials** on making and running EFP jobs
-
-`How to run MAKEFP job <https://youtu.be/orHN362tLjI?si=yGsAYYCeCTqhlyQt>`_
-
-`How to submit MAKEFP input in GAMESS <https://youtu.be/auM76y2tdzw?si=dBOa5sSojKmn4cc7>`_
-
-`Analyzing MAKEFP output <https://youtu.be/R2r_IrV6NbY?si=tgePy5k_UIpmVMpl>`_
-
-`Obtaining EFP parameters and running EFP calculations in LIBEFP <https://youtu.be/oww9uGJmKX4?si=Ih-lwMZTIWO3cK4z>`_
+- `How to run MAKEFP job <https://youtu.be/orHN362tLjI?si=yGsAYYCeCTqhlyQt>`_
+- `How to submit MAKEFP input in GAMESS <https://youtu.be/auM76y2tdzw?si=dBOa5sSojKmn4cc7>`_
+- `Analyzing MAKEFP output <https://youtu.be/R2r_IrV6NbY?si=tgePy5k_UIpmVMpl>`_
+- `Obtaining EFP parameters and running EFP calculations in LIBEFP <https://youtu.be/oww9uGJmKX4?si=Ih-lwMZTIWO3cK4z>`_
 

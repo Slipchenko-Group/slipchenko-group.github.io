@@ -1,5 +1,7 @@
-Members
-=======
+.. _group members:
+
+Group members
+==============
 
 
 Lyudmila Slipchenko
@@ -279,5 +281,9 @@ Wyatt Kenyon
       :align: left
 
 Undergraduate Researcher
+
+.. raw:: html
+
+   <div style="clear: both;></div>
 
 
