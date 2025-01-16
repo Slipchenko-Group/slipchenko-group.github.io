@@ -1,7 +1,7 @@
 Publications
 ============
 
-`Google Scholar page <https://scholar.google.com/citations?hl=en&user=8jzoIi8AAAAJ&view_op=list_works&sortby=pubdate>`_
+https://github.com/Slipchenko-Group/slipchenko-group.github.io.git`Google Scholar page <https://scholar.google.com/citations?hl=en&user=8jzoIi8AAAAJ&view_op=list_works&sortby=pubdate>`_
 
 2024
 ----
@@ -16,7 +16,7 @@ Publications
 
 * Impact of Peripheral Hydrogen Bond on Electronic Properties of the Primary Acceptor Chlorophyll in the Reaction Center of Photosystem IInt. J. Mol. Sci. 2024, 25(9), 4815 `Link <https://doi.org/10.3390/ijms25094815>`_
 
-* Capturing CO2 in Quadrupolar Binding Pockets: Broadband Microwave Spectroscopy of Pyrimidine-(CO2)n, n = 1,2, J. Phys. Chem. A 2024 128 (6), 1124-1133 `Link <https://doi.org/10.1021/acs.jpca.3c07930>`_
+* Blair A. Welsh, Andres S. Urbina, Tuan A. Ho, Susan L. Rempe, Lyudmila V. Slipchenko, and Timothy S. Zwier*, Capturing CO2 in Quadrupolar Binding Pockets: Broadband Microwave Spectroscopy of Pyrimidine-(CO2)n, n = 1,2, J. Phys. Chem. A 2024 128 (6), 1124-1133 `Link <https://doi.org/10.1021/acs.jpca.3c07930>`_
 
 * Detangling Solvatochromic Effects by the Effective Fragment Potential Method, J. Phys. Chem A 2024 128 (3), 656-669 `Link <https://doi.org/10.1021/acs.jpca.3c06194>`_
 
