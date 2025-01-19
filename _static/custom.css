@@ -1,0 +1,77 @@
+/* custom.css */
+
+
+.member-section {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    clear: both; /* Ensures no content overlap */
+    width: 100%; /* Ensure full width usage */
+    flex-wrap: wrap; /* Wrap content if needed */
+}
+
+.member-section img {
+    margin-right: 15px;
+    width: 150px;
+    height: auto;
+    flex-shrink: 0;
+}
+
+.member-section .member-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.member-section p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.members-container {
+    overflow: hidden; /* Contain floated elements */
+    clear: both; /* Ensure no content overflow */
+    width: 100%; /* Ensures full use of the container width */
+}
+
+
+.document {
+    max-width: 100%;
+    width: 100%;
+}
+
+/* Make the main content area full-width */
+.document {
+    width: 100% !important;
+    max-width: none !important;
+}
+
+/* Remove margins and paddings for a full-width effect */
+.main-content {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Optional: Adjust the body to fill the screen width */
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.bibliography .title a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.images-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-figure,
+.right-figure {
+    flex: 1; /* Adjust the width proportion */
+    text-align: center;
+}
