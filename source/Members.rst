@@ -63,8 +63,11 @@ Suranjan Paul
       :width: 25%
       :align: left
 
-Postdoctoral Staff
-
+| **Postdoctoral Staff**
+| Ph.D. in Chemistry.
+| Suranjan completed a Ph.D. in Chemistry from the Ohio State University in December 2022. During this time, he worked on the development and application of continuum solvation models. He joined the lab in February 2023. He is currently working on integration of Pytorch with effective fragment potential library to establish the ML/EFP scheme.
+| **Email:** paulsk@purdue.edu
+| **Fun fact:** I love Football, Cricket and Chess
 
 .. raw:: html
    

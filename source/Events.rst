@@ -32,6 +32,29 @@ Turkey Run Photosynthesis Conference 2024
 
    <div style="clear: both;></div>
 
+.. image:: _static/images/sc.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+.. image:: _static/images/sc2.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+.. image:: _static/images/sac.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
 
 Gatherings and Fun Events
 -------------------------
