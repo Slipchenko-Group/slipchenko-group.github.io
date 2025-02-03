@@ -143,8 +143,8 @@ Satarupa Gupta
       :width: 25%
       :align: left
 
-Graduate Student 
-
+| **Graduate Student** 
+| Satarupa completed her undergrad from Jadavpur University, India, and her Masters in Chemistry from IIT Bhubaneswar, India. During her masters, she worked on a Python code to simulate photodissociation dynamics of the Criegee Intermediate using a Gaussian wave packet approach. She joined Purdue in Fall 2022. In the Slipchenko group, Satarupa works on developing computationally tractable approaches to accurately predict crystal lattice energies. The aim is to generate a crystal structure prediction (CSP) model which helps predict the correct crystal structure that a molecule has under ambient condition, which is one of the fundamentally challenging problems in the natural sciences.
 
 .. raw:: html
 
