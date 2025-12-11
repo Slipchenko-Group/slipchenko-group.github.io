@@ -17,12 +17,13 @@ Volleyball’s become a big part of our group culture—we’re hitting the CORE
 .. raw:: html
 
    <div style="clear: both;></div>
-
+----
 
 Conferences
 -----------
 
 Turkey Run Photosynthesis Conference 2024
+-----------------------------------------
 
 .. image:: _static/images/tr.jpg
    :align: right
@@ -56,13 +57,26 @@ Turkey Run Photosynthesis Conference 2024
 
    <div style="clear: both;></div>
 
+
+Midwest Theoretical Chemistry Conference 2025 (MWTCC)
+----------------------------------------------------
+Many of our group members participated in the 55th MWTCC conference held at Wayne State University in Detroit, Michigan.
+
+.. image:: _static/images/MIDWEST_2025.jpg
+   :align: right
+   :width: 50%
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+----
+
 Gatherings and Fun Events
 -------------------------
 
 
-
-Gingerbread House Competition
------------------------------
+Gingerbread House Competition (2023)
+-----------------------------------
 
 
 .. image:: _static/images/houseinsta.jpg
@@ -83,10 +97,42 @@ This shared experience provided an enjoyable outlet for creativity and camarader
 
    <div style="clear: both;></div>
 
+Gingerbread House Competition (2024)
+-----------------------------------
+This year, we managed to burn the microwave in BRWN 4102 while caramelizing sugar, so the roof of the house never made it on.
 
+.. image:: _static/images/GBH2024.jpg
+   :align: right
+   :width: 50%
 
-The Eclipsed Day
-----------------
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+Gingerbread House Competition (2025)
+-----------------------------------
+
+Victory !!!
+
+We won the competition this year. 
+
+.. raw:: html
+
+   <div style="display: flex; justify-content: space-between; gap: 20px;">
+
+     <div style="flex: 1;">
+       <img src="_static/images/GBH2025_1.jpg" width="100%">
+     </div>
+
+     <div style="flex: 1;">
+       <img src="_static/images/GBH2025_2.jpg" width="100%">
+     </div>
+
+   </div>
+----
+
+The Eclipsed Day (2024)
+----------------------
 
 
 .. image:: _static/images/eclipsegp.png 
@@ -120,7 +166,7 @@ Following the eclipse, we resumed our planned activities, partaking in the meal 
 .. raw:: html
 
    <div style="clear: both;></div>
-
+----
 
 
 Pchem Picnic (2024)
@@ -158,8 +204,35 @@ We arrived early to set up and fired up the grill, filling the air with the arom
 A group photo captured the joyful spirit of the day, sealing the moment in our memories. And, as tradition called, we hit the volleyball court! Though any of us were not pros, we laughed through the game, improving bit by bit. The real win? Strengthening friendships, unwinding, and making bonds that make our Pchem DRG team stronger than ever.
 
 
+----
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+Candidacy Celebration (2025)
+---------------------------
 
 
+.. raw:: html
+
+   <div style="display: flex; justify-content: space-between; gap: 20px;">
+
+     <div style="flex: 1;">
+       <img src="_static/images/CC_2025_1.jpg" width="100%">
+     </div>
+
+     <div style="flex: 1;">
+       <img src="_static/images/CC_2025_2.jpg" width="100%">
+     </div>
+
+   </div>
+
+Five members of our group achieved PhD candidacy this year after passing their OP exams, and we celebrated the milestone with a gathering at Dr. Slipchenko’s house.
+
+.. image:: _static/images/CC_party.jpg
+  :align: center
+  :width: 100%
 
 
 

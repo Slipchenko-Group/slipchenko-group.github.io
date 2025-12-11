@@ -428,3 +428,38 @@ Dmitri Morozov
 
    <div style="clear: both;"></div>
 
+Madison Mercer
+--------------
+
+.. container:: image-text-block
+
+   .. image:: _static/images/Madison_Mercer.jpg
+      :alt: Madison Mercer
+      :width: 25%
+      :align: left
+
+| **Undergraduate Researcher**
+
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+
+Wyatt Kenyon
+-------------
+
+.. container:: image-text-block
+
+   .. image:: _static/images/Wyatt_Kenyon.jpg
+      :alt: Wyatt Kenyon
+      :width: 25%
+      :align: left
+
+| **Undergraduate Researcher**
+
+.. raw:: html
+
+   <div style="clear: both;></div>
+
+

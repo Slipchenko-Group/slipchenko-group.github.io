@@ -255,38 +255,20 @@ Shameera Udesh
 
    <div style="clear: both;></div>
 
-Madison Mercer
---------------
-
-.. container:: image-text-block
-
-   .. image:: _static/images/Madison_Mercer.jpg
-      :alt: Madison Mercer
-      :width: 25%
-      :align: left
-
-Undergraduate Researcher
-
-
-.. raw:: html
-
-   <div style="clear: both;></div>
-
-
-Wyatt Kenyon
+Gabriel West
 -------------
 
 .. container:: image-text-block
 
-   .. image:: _static/images/Wyatt_Kenyon.jpg
+   .. image:: _static/images/Gabe.jpg
       :alt: Wyatt Kenyon
       :width: 25%
       :align: left
 
-Undergraduate Researcher
+| **Undergraduate Researcher**
+| **Fun fact:** I love the Chicago Bears and Star Wars
 
 .. raw:: html
 
    <div style="clear: both;></div>
-
 
